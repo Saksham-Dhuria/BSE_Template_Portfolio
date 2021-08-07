@@ -13,7 +13,7 @@ This will serve as a brief description of your project. Limit this to three sent
 [![Final Milestone](https://i.ytimg.com/vi/KYL1lSGx18s/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCK1gTBsmnueIVC0NtPNtyhExgE3w)](https://youtu.be/KYL1lSGx18s)
 
 # Second Milestone
-My second milestone was adding both servos and creating the hand/claw that will be attached to the second servo(Push Servo). When I was attaching the Rotate Servo to the mechanism, I realised that the space was too large so I had to add an additional box below. With this problem solved; it was time to glue\ the push servo which 
+My second milestone was adding both servos and creating the hand/claw that will be attached to the second servo(Push Servo). When I was attaching the Rotate Servo to the mechanism, I realised that the space was too large so I had to add an additional box below. With this problem solved; it was time to glue the push servo which was easy. However creating the claw was a challenge: firstly, my innitial model for the claw was incorrect as I had stuck the join together while not realising that its necessary for the popsicle to be free to move. Moving onto the next part of the claw, using drill and patience I added a skewer size hole on the popsicle sticks in order for them to be able to stay connected without glue. Next it was time to create the hand, that will push and hold the cube, 
 
 
 [![Second Milestone](https://i.ytimg.com/vi/asTmF8wcKyU/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDT7UgDVbwvtSaEW7q1e-ysJnnF5A)](https://youtu.be/asTmF8wcKyU)
