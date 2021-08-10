@@ -4,6 +4,10 @@ RoboCuber is a cube solving robot, it can solve the Rubik's Cube using servos an
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
 | Saksham Dhuria | Irvington High School | Robotics | Incoming Junior
+# Demo Night Presentation
+[![Sample Video](https://i.ytimg.com/vi/kHVGapM-vSY/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBkQ5r1bpcqcy4QKx75fmcQbm1BTg)](https://youtu.be/kHVGapM-vSY)
+
+# Example Solve:
 
 [![Sample Video](https://i.ytimg.com/vi/o328AWIkfyE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBDlUR0pKG9Aldw0PEFASuvgmEpLg)](https://youtu.be/o328AWIkfyE)
   
