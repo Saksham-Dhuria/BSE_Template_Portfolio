@@ -20,7 +20,8 @@ From my second milestone to the final, I worked on and updated two things: recre
 During testing time, the cube seem to be positioning itself out of claw's reach, so in order to overcome this I recreated a tray with less than a cm moving space after the cube is put inside.  By decreasing the area, cube always stayed perfectly at same position after the turns. 
 
 Lastly it was time to write the code; I decided to write my own code, with inspiration from online algorithms related to the similar topic. After many trial and error testing with different angles, I was finally able to write 12 methods for different notations of Rubik's Cube. 
- 
+
+# Milestone 3 Video
 [![Final Milestone](https://i.ytimg.com/vi/KYL1lSGx18s/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCK1gTBsmnueIVC0NtPNtyhExgE3w)](https://youtu.be/KYL1lSGx18s)
 
 # Second Milestone
@@ -28,7 +29,7 @@ My second milestone was adding both servos and creating the hand/claw that will 
 
 However creating the claw was a challenge: firstly, my initial model for the claw was incorrect as I had stuck the joint together while not realising that its necessary for the popsicle to be free to move. Moving onto the next part(body) of the claw, using drill and patience I added a skewer size hole on the popsicle sticks in order for them to be able to stay connected without glue. Next it was time to create the hand, that will push and hold the cube. Initially it was challenging to stick the popsicle sticks at an angle, but with additional supporting sticks on the back the claw was finally finished.  
 
-
+# Milestone 2 Video
 [![Second Milestone](https://i.ytimg.com/vi/asTmF8wcKyU/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDT7UgDVbwvtSaEW7q1e-ysJnnF5A)](https://youtu.be/asTmF8wcKyU)
 # First Milestone
   
@@ -40,7 +41,7 @@ After building the main structure, I made the cube-holding tray using popsicle s
 
 ![image](https://user-images.githubusercontent.com/86132593/128665103-fb60c96d-fbab-4a11-b073-ac04866be53d.png)
 
-
+# Milestone 1 Video
 [![First Milestone](https://i.ytimg.com/vi/2Qp_IZL8vgk/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAL4n_qyV4U2xSRf1Rns6pwfR3qVA)](https://youtu.be/2Qp_IZL8vgk)
 
 
